@@ -57,7 +57,7 @@ Each problem folder may contain:
 ## 🤝 Connect with Me
 
 - GitHub: https://github.com/shivani-chinthakindi
-- LinkedIn: https://linkedin.com/shivani-chinthakindi
+- LinkedIn: www.linkedin.com/in/shivani-chinthakindi
 
 ---
 
