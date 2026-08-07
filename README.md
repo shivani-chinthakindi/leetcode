@@ -62,3 +62,15 @@ Each problem folder may contain:
 ---
 
 ⭐ If you find this repository helpful, feel free to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shivani-chinthakindi/leetcode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shivani-chinthakindi/leetcode/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
