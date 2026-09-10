@@ -70,6 +70,7 @@ Each problem folder may contain:
 | ------- |
 | [0001-two-sum](https://github.com/shivani-chinthakindi/leetcode/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/shivani-chinthakindi/leetcode/tree/master/0704-binary-search) |
+| [0810-chalkboard-xor-game](https://github.com/shivani-chinthakindi/leetcode/tree/master/0810-chalkboard-xor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,8 +84,29 @@ Each problem folder may contain:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivani-chinthakindi/leetcode/tree/master/0013-roman-to-integer) |
+| [0810-chalkboard-xor-game](https://github.com/shivani-chinthakindi/leetcode/tree/master/0810-chalkboard-xor-game) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivani-chinthakindi/leetcode/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/shivani-chinthakindi/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/shivani-chinthakindi/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Game Theory
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/shivani-chinthakindi/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/shivani-chinthakindi/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/shivani-chinthakindi/leetcode/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
