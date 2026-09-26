@@ -69,17 +69,20 @@ Each problem folder may contain:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivani-chinthakindi/leetcode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/shivani-chinthakindi/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shivani-chinthakindi/leetcode/tree/master/0704-binary-search) |
 | [0810-chalkboard-xor-game](https://github.com/shivani-chinthakindi/leetcode/tree/master/0810-chalkboard-xor-game) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shivani-chinthakindi/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shivani-chinthakindi/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivani-chinthakindi/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shivani-chinthakindi/leetcode/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/shivani-chinthakindi/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -109,4 +112,12 @@ Each problem folder may contain:
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/shivani-chinthakindi/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shivani-chinthakindi/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shivani-chinthakindi/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
